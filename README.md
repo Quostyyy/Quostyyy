@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Patrick!
+## Hey 👋, I'm Patryk!
 
 
 ## 🛠 Languages & Tools
