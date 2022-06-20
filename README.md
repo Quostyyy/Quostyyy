@@ -18,14 +18,14 @@
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" />  
 </div>  
 
-## Contact
+## 💼 Contact
 
 * Discord: Quosty#1317
 * YouTube: Quosty
 * Email: Quosty@HubSpace.PL
 
 
-## Projects & Organizations
+## 🎓 Projects & Organizations
 
 Projects I create:
 
