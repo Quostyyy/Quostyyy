@@ -23,7 +23,7 @@
 
 * Discord: Quosty#1317
 * YouTube: Quosty
-* Email: Quosty@HubSpace.PL
+* Email: contact@quosty.dev
 
 
 ## 🎓 Projects & Organizations
