@@ -36,5 +36,4 @@ Projects I create:
 
 Organizations I recommend
 
-- dkCode.eu
 - mineCodes.PL
