@@ -30,7 +30,6 @@
 
 Projects I create:
 
-- McEvent.PL
 - HubSpace.PL
 
 
