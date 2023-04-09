@@ -26,13 +26,8 @@
 * Email: contact@quosty.dev
 
 
-## 🎓 Projects & Organizations
+## 🎓 Projects
 
 Projects I create:
 
 - HubSpace.PL
-
-
-Organizations I recommend
-
-- mineCodes.PL
