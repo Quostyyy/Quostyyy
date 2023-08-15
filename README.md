@@ -4,12 +4,11 @@
 ## 💼 Contact
 
 * Discord: Quosty#1317
-* YouTube: Quosty
-* Email: contact@quosty.dev
+* Website: NextCode.PL
 
-
-## 🎓 Projects
+## 🎓 Projects & Organizations
 
 Projects I create:
 
+- NextCode.PL
 - HubSpace.PL
