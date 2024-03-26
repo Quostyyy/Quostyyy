@@ -3,5 +3,5 @@
 
 ## 💼 Contact
 
-* Discord: Quosty#1317
+* Discord: Quosty
 * Website: NextCode.PL
